@@ -1,0 +1,68 @@
+b   body {
+    background-color: rgb(123, 177, 123);
+    }
+    
+  
+    .container {
+      text-align: center;
+      font-family: Work sans-serif;
+      font-weight: 100;
+      background-color: rgb(71, 119, 71);
+      width: 100%;
+      margin: 0 auto;
+    }
+    
+    nav ul {
+        list-style: none;
+      }
+    
+      nav li {
+          display: inline-block;
+          margin-left: 25px;
+          padding-top: 25px;
+          padding-bottom: 25px;
+      }
+    
+      nav a {
+          text-decoration: none;
+          color: white;
+      }
+
+      
+      h1 {
+        text-align: center;
+        font-weight: bold;
+        color: rgb(36, 68, 36);
+      }
+
+      .responsive {
+        width: 100%;
+        height: auto;
+      }
+
+      h2 {
+        color: rgb(36, 68, 36); 
+        font-family: Work sans-serif;    
+        font-size: 30px;
+      }
+
+      .banner, p {
+        color:black;  
+        font-family: Work sans-serif;    
+        font-size: 20px;  
+        text-align: left;
+      }
+
+       
+
+      #about, p{
+        text-align: center; 
+      }
+
+
+
+      td {
+        color:black;  
+        font-family: Work sans-serif;    
+        font-size: 23px;
+      }
